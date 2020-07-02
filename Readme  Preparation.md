@@ -16,12 +16,12 @@ AWS white paper summarized
   for cost optimization, you can use the cost explorer to see how much services are costing you
   
 AWS also has 6 FAQs that covers some of the key services in this exam:
-⦁ EC2: https://aws.amazon.com/ec2/faqs/
-⦁ S3: https://aws.amazon.com/s3/faqs/
-⦁ VPC: https://aws.amazon.com/vpc/faqs/
-⦁ Route 53: https://aws.amazon.com/route53/faqs/
-⦁ rds: https://aws.amazon.com/rds/faqs/
-⦁ sqs: https://aws.amazon.com/sqs/faqs/
+  - EC2: https://aws.amazon.com/ec2/faqs/
+  - S3: https://aws.amazon.com/s3/faqs/
+  - VPC: https://aws.amazon.com/vpc/faqs/
+  - Route 53: https://aws.amazon.com/route53/faqs/
+  - rds: https://aws.amazon.com/rds/faqs/
+  - sqs: https://aws.amazon.com/sqs/faqs/
 
 
 # AWS Book: 
