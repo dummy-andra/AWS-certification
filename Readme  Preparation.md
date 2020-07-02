@@ -25,12 +25,12 @@ AWS also has 6 FAQs that covers some of the key services in this exam:
 
 
 # AWS Book: 
-http://bit.ly/awsbooknc
+  http://bit.ly/awsbooknc
 
 # AWS Practice Exam: 
-    http://bit.ly/awsexam
-    https://www.exampro.co/aws-exam-solutions-architect-associate
-    https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf
-    https://tutorialsdojo.com/aws-cheat-sheets/
+  http://bit.ly/awsexam
+  https://www.exampro.co/aws-exam-solutions-architect-associate
+  https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf
+  https://tutorialsdojo.com/aws-cheat-sheets/
 
 
